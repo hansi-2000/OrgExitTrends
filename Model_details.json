@@ -1,0 +1,9 @@
+{
+    "Logistic Regression Model": {
+        "default": {
+            "description": "This model contains mainly default integer data and one hot-encoded (OHE) data",
+            "accuracy": 75.60,
+            "save name": "logistic_regression_model_def.pkl"
+        }
+    }
+}
